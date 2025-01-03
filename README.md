@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vcanuel
-- 👀 I’m interested in DevOps, Software craftsmanship, Kotlin & Flutter 
-- 🌱 I’m currently learning NestJs and NextJs
+- 👀 I’m interested in DevOps, Software craftsmanship and Kotlin development 
+- 🌱 I’m currently learning Axon
 - 💞️ I’m looking to collaborate on any tech cited previously :) 
 - 📫 How to reach me @v_canuel (twitter)
 
