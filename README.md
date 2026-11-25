@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vcanuel
-- 👀 I’m interested in DevOps, Software craftsmanship and A.I augmented development 
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on any tech cited previously :) 
-- 📫 How to reach me @v_canuel (twitter)
-
-<!---
-vcanuel/vcanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vincent (@vcanuel)
+- 🚗 I build [Runsten](https://github.com/runsten-app/runsten), an open source data logger for electric cars: trips, charges, costs and battery health, self-hosted or on [my.runsten.app](https://my.runsten.app). Written in Go and Vue, with a Flutter app and a Home Assistant integration.
+- 💼 By day, CTO at ID Capture
+- 👀 I’m interested in DevOps, software craftsmanship and AI-augmented development
+- 💞️ Contributions to Runsten are welcome: [issues](https://github.com/runsten-app/runsten/issues)
+- ☕ If Runsten is useful to you: [ko-fi.com/runstenapp](https://ko-fi.com/runstenapp)
+- 📫 Reach me on X [@v_canuel](https://x.com/v_canuel) or at [runsten.app](https://runsten.app)
